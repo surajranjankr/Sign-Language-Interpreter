@@ -1,0 +1,5 @@
+outs:
+- md5: 35af99204aafbbd37e63dc09d7d5efc5
+  size: 4218880
+  hash: md5
+  path: asl_model.h5

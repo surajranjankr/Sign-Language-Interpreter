@@ -1,0 +1,6 @@
+outs:
+- md5: 5c88279d3b85f4f490ee87f94c92851e.dir
+  size: 12533856
+  nfiles: 822
+  hash: md5
+  path: landmarks
