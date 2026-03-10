@@ -208,3 +208,8 @@ __marimo__/
 
 data/landmarks
 models/asl_model.h5
+data/raw_videos/
+venv/
+*.npy
+*.mp4
+src/hand_landmarker.task
