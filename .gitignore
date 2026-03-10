@@ -207,8 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 data/landmarks
-models/asl_model.h5
-data/raw_videos/
+data/raw_videos
 venv/
 *.npy
 *.mp4
