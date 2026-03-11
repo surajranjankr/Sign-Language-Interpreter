@@ -1,3 +1,9 @@
 # python==3.12.10
 opencv-python
 mediapipe==0.10.13
+fiftyone
+numpy
+saeborn
+matplotlib
+scikit-learn
+tensorflow
